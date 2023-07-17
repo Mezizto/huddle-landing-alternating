@@ -354,4 +354,5 @@ li:nth-child(3) {
     display: flex;
     justify-content: flex-end;
     color: var(--Very-Pale-Cyan);
+    font-size: 0.8rem;
 }
