@@ -123,7 +123,7 @@ main {
     align-items: center;
     gap: 50px;
     background-color: white;
-    padding-bottom: 200px;
+    padding-bottom: 300px;
     position: relative;
     padding-top: 150px;
 }
@@ -277,7 +277,7 @@ footer {
     flex-direction: column;
     color: var(--Very-Pale-Cyan);
     font-family: Open Sans;
-    padding: 100px 50px 50px 100px;
+    padding: 150px 50px 50px 100px;
 }
 
 .footer-logo {
