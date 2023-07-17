@@ -35,7 +35,7 @@ header {
     display: flex;
     flex-direction: column;
     gap: 50px;
-    padding: 50px;
+    padding: 80px;
     height: 718px;
 }
 
@@ -50,9 +50,10 @@ header {
     border: none;
     border-radius: 50px;
     background-color: white;
-    padding: 10px 60px;
+    padding: 0 60px;
     box-shadow: 0 2px 5px hsla(192, 100%, 9%, 0.1);
     color: hsl(192, 100%, 9%);
+    height: 40px;
 }
 
 #top-logo-button:hover {
